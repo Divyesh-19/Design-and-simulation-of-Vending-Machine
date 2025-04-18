@@ -1,5 +1,3 @@
-# Design-and-simulation-of-Vending-Machine
-
 # 🥤 Vending Machine – Verilog HDL Based Digital Design
 
 This project demonstrates the **design, simulation, and synthesis of a digital vending machine** using **Verilog HDL**, developed as part of a digital systems course at DAIICT under the guidance of **Prof. Rutu Parekh**.
